@@ -24,7 +24,7 @@ This Work is for educational and informational purposes only. This Work is not l
 No Warranties
 -------------
 
-*This Work is provided as-is and with all faults, without warranty of any kind, express or implied. Warranties that might otherwise be implied by law, such as warranties of merchantability, fitness for a particular purpose, and noninfringement, are expressly disclaimed. No warranty is made that this Work or its use are legally permissible or suitable for achieving any legal objective.*
+**This Work is provided as-is and with all faults, without warranty of any kind, express or implied. Warranties that might otherwise be implied by law, such as warranties of merchantability, fitness for a particular purpose, and noninfringement, are expressly disclaimed. No warranty is made that this Work or its use are legally permissible or suitable for achieving any legal objective.**
 
 No Liability
 ------------
