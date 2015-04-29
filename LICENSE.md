@@ -5,6 +5,6 @@ Subject to the terms of this "License", the copyright "Owner" or "Owners" of thi
 
 This License is granted on condition that this Work is not accepted as legal advice or a substitute for an attorney's counsel. Neither this License, the Work, nor any act permitted by this License will create an attorney-client relationship. Publication of this Work does not indicate that the Owners are available for professional employment or specialized in any kind of law.
 
-**This Work is provided as-is, without warranty of any kind. The Owners do not guarantee that using this Work will achieve any desireable legal aim. The Owners disclaim all Warranties that the law might otherwise imply, including warranties of merchantability, fitness for a particular purpose, and noninfringement.**
+**This Work is provided as-is, without warranty of any kind. The Owners do not guarantee that using this Work will achieve any desireable legal aim. The Owners disclaim all warranties that the law might otherwise imply, including warranties of merchantability, fitness for a particular purpose, and noninfringement.**
 
 To the fullest legal extent, no Licensee may hold any Owner liable for any kind of legal damages (direct, indirect, special, incidental, consequential, or any other kind) under any type of legal theory (contract, tort, or any other type) arising out of this License, the Work, or any act permitted by this License, even if an Owner becomes aware that such damages are possible.
