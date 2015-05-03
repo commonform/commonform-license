@@ -1,1 +1,0 @@
-Disclaimer: Each document is intended to serve as a starting point only, and should be tailored to meet your specific requirements. These documents should not be construed as legal advice for any particular facts or circumstances.
