@@ -7,4 +7,4 @@ This Work is not legal advice and shall not be used in place of an attorney's co
 
 **This Work is provided as-is, without warranty of any kind. This Work is not guaranteed to achieve any legal goal. The Owners disclaim all warranties that the law might otherwise imply, such as warranties of merchantability, fitness, and noninfringement.**
 
-To the fullest legal extent, no recipient of a License may hold any Owner liable for any kind of legal damages—direct, indirect, special, incidental, consequential, or any other kind—under any type of legal theory—contract, tort, or any other type—arising out of this Work, this License, or any act permitted by this License, even if an Owner anticipates such damages.
+To the fullest legal extent, no recipient of a License may hold the Owner liable for any kind of legal damages—direct, indirect, special, incidental, consequential, or any other kind—under any type of legal theory—contract, tort, or any other type—arising out of this Work, this License, or any act permitted by this License, even if an Owner anticipates such damages.
